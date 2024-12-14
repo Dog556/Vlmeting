@@ -1,0 +1,24 @@
+finger:
+  - openvpn
+  - ssh
+  - Apache
+  - RCE
+  - Apache-APISIX
+  - Metabase
+  - CloudPanel
+  - Grafana
+  - MinIO
+  - pgAdmin4
+  - Sophos
+  - Apache ActiveMQ
+  - APACHE-Airflow
+  - GitLab
+  - ATLASSIAN-Confluence
+  - CyberPanel
+  - PaloAlto
+  - spring
+  - Harbor
+  - vmalert
+  - Websoket
+  - squid
+  - Springboot

@@ -84,7 +84,6 @@ def check_data_exists_in_db(web_data, db_path):
 
     # 遍历Web请求的JSON数据
     for item in web_data:
-        # 准备查询语句，这里假设我们要比较的字段是'url'
         query = 'SELECT 1 FROM vulnerabilities WHERE url = ?'
         c.execute(query, (item['url'],))
 
